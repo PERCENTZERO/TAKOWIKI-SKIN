@@ -78,13 +78,7 @@ class LibertyTemplate extends BaseTemplate {
 						$this->html( 'dataAfterContent' );
 					}
 					?>
-					<div class="bottom-ads"></div>
-					<?php $this->footer(); ?>
 					
-					<div class="mt-3 text-center">
-                    사회적비난을받을수있는위키는 아주 샌즈합니다!</a>
-                </div>
-				</div>
 				</footer>
 			</div>
 		</div>
