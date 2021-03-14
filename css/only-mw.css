@@ -1,3 +1,6 @@
+.mw-rcfilters-ui-changesListWrapperWidget .mw-changeslist-legend {
+	background-color: #252525;
+}
 /* ToC */
 .Liberty .content-wrapper .liberty-content .liberty-content-main .toc {
 	border-bottom-right-radius: 0.35rem;
@@ -290,6 +293,7 @@ td.mw-label {
 }
 
 
+
 /* Input End */
 
 /* PostEdit */
@@ -336,3 +340,10 @@ html #msupload-dropzone {
 /* MsUpload End */
 
 /* Extensions End */
+code {
+    padding: .2rem .4rem;
+    font-size: 90%;
+    color: #bd4147;
+    background-color: #252525;
+    border-radius: .25rem;
+}

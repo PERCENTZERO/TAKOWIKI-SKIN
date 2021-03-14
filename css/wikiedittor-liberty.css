@@ -56,26 +56,18 @@ html .wikiEditor-ui-tabs div.current {
 	background-color: #f5f8fa;
 }
 
-html .wikiEditor-ui .wikiEditor-ui-view {
-	border: 1px solid #e1e8ed;
-	border-bottom: 0;
-}
 
 html .wikiEditor-ui-toolbar {
 	background-image: none;
 	background-color: #f5f8fa;
 }
 
-html .wikiEditor-ui .wikiEditor-ui-top {
-	border-bottom: 1px solid #e1e8ed;
-}
 
 .editOptions {
-	background-color: #f5f8fa;
-	border: 1px solid #e1e8ed;
+	background-color: rgb(35, 35, 35);
 	padding: 1rem;
-	border-bottom-left-radius: 0.35rem;
-	border-bottom-right-radius: 0.35rem;
+	border-bottom-left-radius: 0rem;
+	border-bottom-right-radius: 0rem;
 }
 
 html .editOptions input#wpSummary {
@@ -87,17 +79,21 @@ html .editOptions input#wpSummary {
 	color: #55595c;
 	background-color: #fff;
 	background-image: none;
-	border: 1px solid #ccc;
-	border-radius: 0.35rem;
+	border: 1px solid rgb(255, 255, 255);
+	border-radius: 1rem;
 }
 
 html .editOptions input#wpSummary:focus {
-	border-color: #66afe9;
+	border-color: #ff0000;
 	outline: 0;
 }
 
 .editCheckboxes label {
 	margin-right: 0.5rem;
+}
+.mw-editfont-monospace {
+	background-color: rgb(35, 35, 35);
+	
 }
 
 .mw-charinsert-buttons {
