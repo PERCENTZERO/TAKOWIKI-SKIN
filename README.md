@@ -1,1 +1,3 @@
-# WIKi-that-can-face-social-blame-skin
+# 타코위키 스킨
+리버티 스킨을 개조했습니다!
+![스크린샷, 2021-03-14 20-43-30](https://user-images.githubusercontent.com/69731703/111067119-f532a600-8505-11eb-9131-a2c603832107.png)
